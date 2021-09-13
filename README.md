@@ -9,7 +9,8 @@ The data given was pretty clean with a few nuls and with almost no outliers and 
 <br>
 <br>
 <br>
-**Round 2**<br><br><br>
+**Round 2**
+<br><br><br>
 The round 2 was Natural language processing and the data contained blogs and obviously had links in to play for. We created few features and used Sentence transformers and word embeddings to get out the best of the results but could bag out 7th place.Click [here](https://www.kaggle.com/c/data-unchained-round-2/overview) to view the second round.
 
 
