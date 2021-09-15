@@ -1,4 +1,6 @@
 # Data_Unchained_IIITDelhi
+<br>
+_ Participated in the competition with Yash Kashyap in the team "Zindagi ki yahi reet hai"_
 **Round 1**
 <br>
 <br>
